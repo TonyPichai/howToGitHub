@@ -1,13 +1,13 @@
 # howToGitHub
 A test repo to clone and pull (fetch)
 
-1. This is a new comment after pulling the repo and pushing it again.
-2. You don't need to create and alias for a repo that was made on github and you're pulling from github.
-   * You only need to make an alias if you're making a repo and pushing to it
+* This is a new comment after pulling the repo and pushing it again.
+* You don't need to create and alias for a repo that was made on github and you're pulling from github.
+      * You only need to make an alias if you're making a repo and pushing to it
 
 To check you repo alias **`git remote -v`** it'll say something like origin
-
-To then push
+----
+Then push
    * **`git add .`**
    * **`git commit -m 'message'`**
    * **`git push origin main`**
